@@ -1,6 +1,17 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm TRIO REFKY WAHYU PUTRA</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triorefkywahyuputra&label=Profile%20views&color=0e75b6&style=flat" alt="triorefkywahyuputra" /> </p>
+
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/trio-refky-31ba76436](www.linkedin.com/in/trio-refky-31ba76436)
+
+- 💬 Ask me about **React, Vue.js, JavaScript, CSS Grid, Responsive Web Design**
+
+- 📫 How to reach me **triorefkywahyuputra@gmail.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/trio-refky-31ba76436](www.linkedin.com/in/trio-refky-31ba76436)
+
+- ⚡ Fun fact **I can drawing and I like to learn foreign languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
