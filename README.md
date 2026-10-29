@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triorefkywahyuputra&label=Profile%20views&color=0e75b6&style=flat" alt="triorefkywahyuputra" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/trio-refky-31ba76436](www.linkedin.com/in/trio-refky-31ba76436)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/trio-refky-31ba76436](https://linkedin.com/in/trio-refky-31ba76436)
 
 - 💬 Ask me about **React, Vue.js, JavaScript, CSS Grid, Responsive Web Design**
 
 - 📫 How to reach me **triorefkywahyuputra@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/trio-refky-31ba76436](www.linkedin.com/in/trio-refky-31ba76436)
+- 📄 Know about my experiences [www.linkedin.com/in/trio-refky-31ba76436](https://linkedin.com/in/trio-refky-31ba76436)
 
 - ⚡ Fun fact **I can drawing and I like to learn foreign languages**
 
